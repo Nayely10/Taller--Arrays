@@ -1,0 +1,30 @@
+6:6.	Consulte qué son los arrays y explique en qué se diferencian los arrays de los objetos.
+
+Un  array es una variable que almacena varios datos.
+
+Cada uno de ellos ubicado por la posición que ocupa en el array.
+
+Los objetos son similares a una lista cuyo prototipo proporciona métodos para efectuar operaciones 
+de recorrido y un objeto es un entidad independiente con propiedades y tipos. Compáralo con una taza, por ejemplo. 
+Una taza es un objeto con propiedades. 
+
+Una taza tiene un color, un diseño, un peso, un material del que está hecha, etcde mutación.
+
+NOTA: Tanto la longitud como el tipo de los elementos de un array son variables
+
+7:7.	Menciona por lo menos 1 propiedades y 3 funciones que tienen integrados los arrays.
+
+1.propiedad .length=
+Propiedad que devuelve el número de elementos del array.
+
+2.unshift(x)
+Añade x al principio del array como nuevo (o nuevos) elementos.
+
+3.splice 
+Modifica el array añadiendo los elementos it1, it2, …, itN, que son insertados en la posición ind desplazando a los existentes.
+
+4.pop()
+Elimina el último elemento del array y lo devuelve.
+
+5.shift()
+Elimina el primer elemento del array y lo devuelve.
